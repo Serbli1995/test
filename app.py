@@ -21,7 +21,7 @@ def freplacement (List_pair,string_replacement,count_replasment):
     return [return_string,this_count_replasment]
 
 
-debag = True
+debag = False
 
 # error sting
 err_message_param = 'Not enough actual parameters.'
